@@ -52,10 +52,7 @@ src/
 How to Run the Project
 
 # Clone the repository
-git clone https://github.com/your-username/todo-react.git
-
-# Enter the folder
-cd todo-react
+git clone https://github.com/DussoII/React---To-do-list
 
 # Install dependencies
 npm install
